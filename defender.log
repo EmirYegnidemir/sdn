@@ -1,0 +1,1556 @@
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-03 22:08:17.564044 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-03 22:08:17.564044 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-03 22:23:37.517521 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-03 22:23:37.517521 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-03 22:24:49.664865 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-03 22:24:49.664865 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-03 22:25:35.685108 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-03 22:25:35.685108 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-03 22:25:48.576978 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-03 22:25:48.576978 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-03 22:26:06.230670 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-03 22:26:06.230670 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-04 20:54:56.438901 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-04 20:54:56.438901 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-04 20:56:08.086017 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-04 20:56:08.086017 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-04 20:59:15.972558 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-04 20:59:15.972558 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:30:39.736894 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 13:30:39.736894 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:31:08.448405 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-06 13:31:08.448405 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:31:43.005840 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-06 13:31:43.005840 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:32:09.059640 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-06 13:32:09.059640 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:32:58.147887 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 13:32:58.147887 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:33:09.517062 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 13:33:09.517062 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:48:41.928614 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 13:48:41.928614 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 13:49:32.444123 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-06 13:49:32.444123 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 14:06:09.472385 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 14:06:09.472385 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 14:15:25.857769 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 14:15:25.857769 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 14:15:57.746571 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-06 14:15:57.746571 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 14:33:33.283403 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-06 14:33:33.283403 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-06 14:33:58.836203 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-06 14:33:58.836203 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 20:33:18.018398 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 20:33:18.018398 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 20:37:28.457327 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 20:37:28.457327 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 21:10:45.246668 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 21:10:45.246668 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 21:16:52.608201 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 21:16:52.608201 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 21:25:14.638190 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 21:25:14.638190 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 21:58:02.039700 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 21:58:02.039700 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 21:58:15.901667 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 21:58:15.901667 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 21:59:11.870360 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 21:59:11.870360 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:16:50.506673 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 22:16:50.506673 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:18:53.717229 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:18:53.717229 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:25:02.533205 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:27:11.569011 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:33:41.253271 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:33:41.253271 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:42:09.736203 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:42:09.736203 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:47:02.891572 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:47:02.891572 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:50:39.000448 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:50:39.000448 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:52:48.345764 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:52:48.345764 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 22:56:30.622377 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 22:56:30.622377 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:01:39.595410 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:01:39.595410 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:12:04.040959 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:12:04.040959 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:18:50.268256 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:18:50.268256 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:20:08.897971 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:20:08.897971 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-21 23:20:16.289638 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:20:16.289638 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-21 23:20:23.492709 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:20:23.492709 Packet sent to controller
+
+INFO:root:
+Time: 2024-05-21 23:20:41.856951 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:20:41.856951 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-21 23:20:55.011163 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:20:55.011163 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:
+Time: 2024-05-21 23:31:17.097250 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:31:17.097250 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:38:35.701608 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:38:35.701608 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-21 23:38:44.397233 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:38:44.397233 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-21 23:39:04.770977 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:39:04.770977 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:53:52.934919 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:53:52.934919 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:55:38.283133 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:55:38.283133 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:55:52.179333 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-21 23:55:52.179333 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-21 23:56:25.859037 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-21 23:56:25.859037 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 00:16:57.517991 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 00:16:57.517991 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 00:17:03.471513 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 00:17:03.471513 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 00:17:13.081513 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 00:17:13.081513 Packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 00:17:33.828708 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 00:17:33.828708 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 00:17:43.152875 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 00:17:43.152875 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 00:17:54.746593 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 00:17:54.746593 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 18:40:12.646978 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 18:40:12.646978 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 18:48:10.284363 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 18:48:10.284363 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 18:49:50.594738 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 18:49:50.594738 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:02:54.763683 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:02:54.763683 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:03:09.116463 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:03:09.116463 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:06:03.615978 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:03.615978 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:05.424143 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:05.424143 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:07.163453 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:07.163453 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:09.044814 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:09.044814 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:10.891585 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:10.891585 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:12.640503 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:12.640503 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:14.398310 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:14.398310 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:16.198917 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:16.198917 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:17.947615 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:17.947615 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:19.789712 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:19.789712 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:21.583267 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:21.583267 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:23.565366 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:23.565366 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:25.466089 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:25.466089 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:27.593253 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:27.593253 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:29.493556 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:29.493556 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:31.390199 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:31.390199 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:33.186571 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:33.186571 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:35.100921 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:35.100921 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:37.050695 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:37.050695 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:39.015896 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:39.015896 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:40.938650 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:40.938650 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:42.777044 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:42.777044 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:44.775772 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:44.775772 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:46.743781 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:46.743781 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:48.702142 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:48.702142 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:50.505783 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:50.505783 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:52.373210 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:52.373210 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:54.372006 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:54.372006 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:56.451237 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:56.451237 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:06:58.441956 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:06:58.441956 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:07:00.422522 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:07:00.422522 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:07:02.303966 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:07:02.303966 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:07:04.338229 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:07:04.338229 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:07:06.347767 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:07:06.347767 No packet sent to controller
+
+INFO:root:
+Time: 2024-05-22 19:07:08.168483 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:07:08.168483 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:
+Time: 2024-05-22 19:07:10.111289 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:07:10.111289 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:10:50.450598 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:10:50.450598 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:12:15.498130 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 19:12:15.498130 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:13:33.574041 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 19:13:33.574041 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:14:22.987794 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:20:51.897301 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 19:20:51.897301 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:22:29.588103 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 19:22:29.588103 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:22:58.115628 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 19:22:58.115628 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:25:58.384537 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:25:58.384537 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:29:43.121856 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:29:43.121856 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:29:54.995275 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-22 19:29:54.995275 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-22 19:32:59.322932 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-22 19:32:59.322932 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-24 09:53:49.312743 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-24 09:53:49.312743 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-24 09:54:09.577785 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-24 09:54:09.577785 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for ddos.
+INFO:root:Defender is ready to receive and inspect messages for mitm.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-24 13:43:17.635847 Machine Learning Result: It seems to be safe
+
+INFO:root:
+Time: 2024-05-24 13:43:17.635847 No packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-05-24 13:43:53.855254 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-05-24 13:43:53.855254 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-06-08 18:23:10.655101 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-06-08 18:23:10.655101 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-06-08 18:34:20.883099 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-06-08 18:34:20.883099 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:
+Time: 2024-06-20 18:17:43.424897 Machine Learning Result: ALERT :::: This can be SQLi attack
+
+INFO:root:
+Time: 2024-06-20 18:17:43.424897 Packet sent to controller
+
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for sql_injection.
+INFO:root:Defender is ready to receive and inspect messages for receive_mac.
